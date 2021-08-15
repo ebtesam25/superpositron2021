@@ -9,11 +9,12 @@
      "default_icon": "logo.png"
     },
     "permissions": [
-     "activeTab"
+     "activeTab",
+     "tabs"
    ],
    "content_scripts": [
     {
-      "matches": ["https://www.amazon.com/*"],
+      "matches": ["https://www.amazon.com/*","https://www.google.com/search?tbm=shop*"],
       "css": ["script.css"],
       "js": ["script.js"]
     }

@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
   
-    "name": "Shopclusive",
-    "description": "Find products that support inclusivity and gender equity, also fight pink tax!",
+    "name": "Equify",
+    "description": "Find products that support inclusivity and gender equity, and fight pink tax!",
     "version": "1.0",
   
     "browser_action": {
